@@ -1,4 +1,4 @@
-📈 Bull or Bear Day Predictor
+📈 Bull or Bear Day Predictor Delayed
 This project uses historical stock price data, moving averages, volume trends, and basic machine learning to predict whether the next trading day will be a bull (price up) or bear (price down) day. The project also includes insightful visualizations and a simple, reproducible pipeline, making it a great addition to a data science portfolio.
 
 🧰 Technologies & Tools Used
